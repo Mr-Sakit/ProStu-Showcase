@@ -11,7 +11,8 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=for-the-badge&logo=openai)](https://openai.com/)
 
 ---
-
+*Qeyd: Kod bazası (source code) hal-hazırda private (gizli) repozitoriyadadır. Bu səhifə layihənin sənədləşdirilməsi və texniki vizyonu üçün nəzərdə tutulub.*
+---
 ## 🌟 Layihə Haqqında
 
 **ProStu**, akademik idarəetmədəki dağınıqlığı aradan qaldıraraq aşağıdakı imkanları təqdim edir:
