@@ -44,7 +44,7 @@
 
 ## 📸 Ekran Görüntüləri
 
-| Tələbə Profili | AI Müsahibə |
+| Tələbə Profili | Layihələr |
 |:---:|:---:|
 | ![Student Profile](image.png) | ![Projects](image-3.png) |
 
