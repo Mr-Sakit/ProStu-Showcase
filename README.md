@@ -46,7 +46,7 @@
 
 | Tələbə Profili | AI Müsahibə |
 |:---:|:---:|
-| ![Student Profile](![alt text](image.png)) | ![AI Interview](https://dummyimage.com/600x300/e2e8f0/1e293b&text=Müsahibə+Çatı) |
+| ![Student Profile](image.png) | ![AI Interview](https://dummyimage.com/600x300/e2e8f0/1e293b&text=Müsahibə+Çatı) |
 
 | Müəllim Paneli | Mobil Versiya |
 |:---:|:---:|
