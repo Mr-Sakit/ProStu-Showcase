@@ -46,11 +46,11 @@
 
 | Tələbə Profili | AI Müsahibə |
 |:---:|:---:|
-| ![Student Profile](image.png) | ![AI Interview](https://dummyimage.com/600x300/e2e8f0/1e293b&text=Müsahibə+Çatı) |
+| ![Student Profile](image.png) | ![Projects](image-3.png) |
 
 | Müəllim Paneli | Mobil Versiya |
 |:---:|:---:|
-| ![Teacher Dashboard](https://dummyimage.com/600x300/e2e8f0/1e293b&text=Tələbə+Bazası) | ![Mobile View](https://dummyimage.com/600x300/e2e8f0/1e293b&text=Mobil+Görünüş) |
+| ![Teacher Dashboard](image-1.png) | ![Mobile View](image-2.png) |
 
 
 
